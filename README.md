@@ -1,7 +1,7 @@
-### Hi there 👋
+ #*** Hi I am Md Rifat Hossain *** 👋
 
 
-**Rifatinfo/Rifatinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rifatinfo/Rifatinfo**
 
 Here are some ideas to get you started:
 
