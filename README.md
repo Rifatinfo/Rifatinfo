@@ -28,7 +28,6 @@ Full-Stack Web Developer | Building scalable, maintainable, and high-performance
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
 ### Backend
@@ -45,25 +44,15 @@ Full-Stack Web Developer | Building scalable, maintainable, and high-performance
 
 ---
 
-##  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
----
-
 ##  Contact & Social Links
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<p align="start">
+  <a href="https://www.linkedin.com/in/rifatinfo/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="35" height="35"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:mdrifathossainsinfo@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35" height="35"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/rifatinfo">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="35" height="35"/>
   </a>
 </p>
@@ -72,8 +61,8 @@ Full-Stack Web Developer | Building scalable, maintainable, and high-performance
 
 ##  Featured Projects
 
-1. [**Project One**](https://github.com/YOUR_USERNAME/project-one) – Brief 1-line description of what it does.  
-2. [**Project Two**](https://github.com/YOUR_USERNAME/project-two) – Brief 1-line description of what it does.
+1. [**Project One**](https://creative-digital-agency-client.vercel.app/) 
+2. [**Project Two**](https://ride-booking-clients.vercel.app/) 
 
 ---
 
