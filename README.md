@@ -1,6 +1,5 @@
 <p align="center">
   <img 
-   
     src="https://res.cloudinary.com/dgp5rqeqh/image/upload/v1776264219/rifat3.jpg_a5b0j8.jpg" 
     alt="Profile Banner"
     style="width:100%; max-width:1040px; height:auto; border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.25);"
